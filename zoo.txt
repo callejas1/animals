@@ -1,3 +1,5 @@
 Python
 Tiger
 Peacock
+Gorilla
+Elephant
